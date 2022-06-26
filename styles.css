@@ -312,10 +312,9 @@ body {
       transform: translate(1px, -2px) rotate(-1deg);
     }
   }
-
-
-@media only screen and (max-width: 600px)
-#settings-btn svg{
-    width:20px;
-    height:20px;
-}
+@media only screen and (max-width: 600px){
+      #settings-btn svg{
+        width:35px;
+        height:35px;
+    }
+  }
