@@ -197,8 +197,7 @@ body {
     visibility: hidden;
     opacity: 0;
     transition: visibility 0.3s linear, opacity 0.3s linear;
-      -webkit-box-shadow: 0px 0px 20px 4px #000000; 
-box-shadow: 0px 0px 20px 4px #000000;
+    
   }
 
   .settings .details {
@@ -208,6 +207,8 @@ box-shadow: 0px 0px 20px 4px #000000;
     width: 200px;
     padding: 20px;
     border-radius: 20px;
+        -webkit-box-shadow: 0px 0px 20px 4px #000000; 
+box-shadow: 0px 0px 20px 4px #000000;
   }
 
   .break {
